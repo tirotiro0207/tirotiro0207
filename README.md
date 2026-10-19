@@ -22,7 +22,8 @@ That day is what I build for.
 
 Real-time translation for foreign trainees in Japan's electrical construction industry.
 
-- Vietnamese subtitles about **0.5 s** after the speaker pauses, and voice in about **2.5 s**
+- Live in **Vietnamese and English**. Khmer ships in December 2026, Myanmar next
+- Subtitles about **0.5 s** after the speaker pauses, and voice in about **2.5 s** (measured in Vietnamese)
 - A glossary of about **2,700 industry terms**, researched, curated and validated one by one
 - After class: key points and a comprehension quiz, in the learner's own language
 - In paid production at **TOKO ELECTRICAL CONSTRUCTION** (founded 1923) since August 2026. Built with Claude Code.
