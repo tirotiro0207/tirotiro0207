@@ -54,7 +54,7 @@ Real-time translation for foreign trainees in Japan's electrical construction in
   日本語が読めないまま、ポケモンをクリアした。良い UI は、言葉なしで伝わる。
 - **Apex Legends: Master.** Wish I could hold Predator 😿
   エーペックスはマスター。プレデターにいられたらなぁ😿
-- Guitar, manga (宇宙兄弟, ジョジョ), and anything with good UX.
+- Guitar, manga — Space Brothers（宇宙兄弟）, JoJo（ジョジョ）, Fullmetal Alchemist（鋼の錬金術師）, Kingdom（キングダム）— and anything with good UX.
 
 ---
 
