@@ -53,8 +53,8 @@ Real-time translation for foreign trainees in Japan's electrical construction in
 
 - **Games taught me design.** As a kid I beat Pokémon in Japanese I couldn't read. Good UI explains itself without words.
   日本語が読めないまま、ポケモンをクリアした。良い UI は、言葉なしで伝わる。
-- **Apex Legends: Master.** Wish I could hold Predator 😿
-  エーペックスはマスター。プレデターにいられたらなぁ😿
+- **Apex Legends: Master.** Strategy × tactics × team comms × aim. I play for the puzzle of multiplying all four. Wish I could hold Predator 😿
+  エーペックスはマスター。戦略 × 戦術 × 連携 × エイム、この4つの掛け算を考えるのが楽しくて続けています。プレデターにいられたらなぁ😿
 - Guitar, manga — Space Brothers（宇宙兄弟）, JoJo's Bizarre Adventure（ジョジョの奇妙な冒険）, Fullmetal Alchemist（鋼の錬金術師）, Kingdom（キングダム）— and anything with good UX.
 
 ---
