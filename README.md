@@ -53,7 +53,7 @@ Real-time translation for foreign trainees in Japan's electrical construction in
 - **Games taught me design.** As a kid I beat Pokémon in Japanese I couldn't read. Good UI explains itself without words.
   日本語が読めないまま、ポケモンをクリアした。良い UI は、言葉なしで伝わる。
 - **Apex Legends: Master.** Wish I could hold Predator 😿
-  エーペックスはマスター。プレデターに居続けられたらなあ😿
+  エーペックスはマスター。プレデターにいられたらなぁ😿
 - Guitar, manga (宇宙兄弟, ジョジョ), and anything with good UX.
 
 ---
