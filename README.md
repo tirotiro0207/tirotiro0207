@@ -48,6 +48,16 @@ Real-time translation for foreign trainees in Japan's electrical construction in
 
 ---
 
+## Off the clock ／ 好きなもの
+
+- **Games taught me design.** As a kid I beat Pokémon in Japanese I couldn't read. Good UI explains itself without words.
+  日本語が読めないまま、ポケモンをクリアした。良い UI は、言葉なしで伝わる。
+- **Apex Legends: Master.** Holding Predator takes more hours than I have 😿
+  エーペックスはマスター。プレデター維持には時間が足りない😿
+- Guitar, manga (宇宙兄弟, ジョジョ), and anything with good UX.
+
+---
+
 ## Now ／ いま
 
 - Advisor, Office of the President — TOKO ELECTRICAL CONSTRUCTION CO., LTD.（東光電気工事）
