@@ -1,6 +1,7 @@
 # Ichiro Miki / 三木一郎
 
 > **Japanese was the last language I learned.**
+>
 > 日本語は、僕が最後に覚えた言葉です。
 
 Born in Ho Chi Minh City to a Japanese father and a Vietnamese mother. English kindergarten, a Vietnamese local school, and then, at seven, a Japanese school in Hanoi where I could barely say a word. So I stopped talking.
@@ -18,6 +19,7 @@ That day is what I build for.
 ## What I'm building ／ いま作っているもの
 
 **MIRROR CABIN** — the lecture arrives in your own language.
+
 講義が、母語の字幕と声になって届く。
 
 Real-time translation for the technical training of foreign-national employees. Built with Claude Code.
